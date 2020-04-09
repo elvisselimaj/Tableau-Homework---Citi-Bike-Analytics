@@ -106,6 +106,7 @@ Your final product will be assessed on the following metrics:
 * Visual Attraction
 
 ![tableau](Tableau_Images/botton10_ending.PNG)
+
 ![tableau2](Tableau_Images/bottom10_station.PNG)
 
 
