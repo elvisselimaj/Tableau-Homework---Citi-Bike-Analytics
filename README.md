@@ -105,6 +105,8 @@ Your final product will be assessed on the following metrics:
 
 * Visual Attraction
 
+![foto](botton10_ending.PNG)
+
 
 ## Hints
 
