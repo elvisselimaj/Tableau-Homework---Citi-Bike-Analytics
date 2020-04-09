@@ -1,5 +1,9 @@
 # My link to homerk assignment https://public.tableau.com/profile/visel#!/vizhome/ElvisSelimajhomework/Sheet11
 
+![tableau](Tableau_Images/botton10_ending.PNG)
+
+![tableau2](Tableau_Images/bottom10_station.PNG)
+
 # Tableau Homework - Citi Bike Analytics
 
 ### Before You Begin
